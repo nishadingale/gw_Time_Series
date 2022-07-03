@@ -19,12 +19,10 @@ In this Notebook I learned about different data visualization techniques for tim
 My Plotly graphs are not being rendered on Github.
 Please use nb viewer to checkout the interactive plots and the notebook in its entirety using below link.
 
+nb viewer - https://nbviewer.org
 
-
-nb viewr - https://nbviewer.org
-
-permalink of my Jupyter notebook(paste this link into the nb viewer url bar, and click go! ): https://github.com/nishadingale/gw_Time_Series/blob/586887bbfe87fcf5fe338a835e4a3ee303042c86/The%20Notebook.ipynb
+permalink of my Jupyter notebook(paste this link into the nb viewer url bar, and click go! ): https://github.com/nishadingale/gw_Time_Series/blob/b57ddd9fc434b2c45fc4ed5d2606395d3a864a30/gw.ipynb
 
 
 ## Alternatively open this link directly to the notebook on nb viewer : 
-https://nbviewer.org/github/nishadingale/gw_Time_Series/blob/586887bbfe87fcf5fe338a835e4a3ee303042c86/The%20Notebook.ipynb
+https://nbviewer.org/github/nishadingale/gw_Time_Series/blob/b57ddd9fc434b2c45fc4ed5d2606395d3a864a30/gw.ipynb
