@@ -1,4 +1,4 @@
-# gw
+# Global Warming- Time Series Analysis and Data Visualization
 
 #### This project is a part of the guided project at Coursera . Link of the orginal course and resources below.
 https://coursera.org/share/50af5ad71b3de483904b59b08732960f
@@ -13,3 +13,18 @@ Task6: Monthly average temperature in Canada
 Task7: Visualizing temeperature trend in the most affected and the least affected regions
 
 In this Notebook I learned about different data visualization techniques for time series analysis.I completed different tasks  for a better understanding, exploration and anlysis, while working with time series datasets.
+
+
+##Please Note
+My Plotly graphs are not being rendered on Github.
+Please use nb viewer to checkout the interactive plots and the notebook in its entirety using below link.
+
+
+
+nb viewr - https://nbviewer.org
+
+permalink of my Jupyter notebook(paste this link into the nb viewer url bar, and click go! ): https://github.com/nishadingale/gw_Time_Series/blob/586887bbfe87fcf5fe338a835e4a3ee303042c86/The%20Notebook.ipynb
+
+
+## Alternatively open this link directly to the notebook on nb viewer : 
+https://nbviewer.org/github/nishadingale/gw_Time_Series/blob/586887bbfe87fcf5fe338a835e4a3ee303042c86/The%20Notebook.ipynb
